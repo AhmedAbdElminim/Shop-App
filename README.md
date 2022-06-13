@@ -1,16 +1,10 @@
-# e_commerce_app
+# Shop App
+ Shop App app is open-source app for Android & ios using Bloc State Management. It is built with Dart on top of Google's Flutter Framework.
 
-A new Flutter project.
+![1](https://user-images.githubusercontent.com/59921382/173327501-625adfb7-2127-4ab6-a5ad-19b4571bcec7.jpg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://user-images.githubusercontent.com/59921382/173327634-3eda7396-a840-4077-ab3a-92bc455a33bb.jpg)
+![3](https://user-images.githubusercontent.com/59921382/173327662-35382f2b-d252-40c4-9321-c0da8600d5f1.jpg)
+![4](https://user-images.githubusercontent.com/59921382/173327687-4c997b5e-f900-44d1-9bf0-afbacca13fec.jpg)
+![5](https://user-images.githubusercontent.com/59921382/173327702-1221a04b-d938-49fe-a6eb-fcd8934a67a7.jpg)
